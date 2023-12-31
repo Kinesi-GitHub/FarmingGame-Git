@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Development/FarmingGame/FarmingGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/Actors/BP_FarmingPlot.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/S2/C4W6UCJJIWJFEHUR15M9HW.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/Actors/Plants/BP_PlantBase.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/Components/AC/E_GrowthStage.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/Components/AC/AC_PlantGrowth.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/Components/AC/S_PlantRequirements.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NG/P05J8VG4UIA3PO1I0V0BNW.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/TimeOfDaySystem/E_DayPhase.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/Blueprints/GameLogic/BP_FarmingGamemode.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Development/FarmingGame/FarmingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Development/FarmingGame/FarmingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+			]
+		}
+	]
+}
